@@ -454,7 +454,7 @@
   <string name="RecentRamBar">แถบแรม</string>
   <string name="RecentRamBarFreeRam">สีข้อความแรมที่เหลือ</string>
   <string name="RecentRamBarTitle">A.O.K.P แถบแรม</string>
-  <string name="RecentRamBarUsedRam"สีข้อความใช้แรม</string>
+  <string name="RecentRamBarUsedRam">สีข้อความใช้แรม</string>
   <string name="RecentSummary">เปลี่ยนแก้ไขแผงล่าสุด</string>
   <string name="RecentTitle">แผงล่าสุด</string>
   <string name="RecoveryToggle">ปุ่มรีบูตโหมดกู้คืน</string>
