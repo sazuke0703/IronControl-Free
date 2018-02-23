@@ -302,7 +302,7 @@
   <string name="LockscreenTimeout">การหมดเวลาของการแสดงผลหน้าจอล็อก</string>
   <string name="LockscreenTitle">แก้ไขหน้าจอล็อก</string>
   <string name="LowercaseDate">วันที่ตัวพิมพ์เล็ก</string>
-  <string name="MM">M&M</string>
+  <string name="MM">MM</string>
   <string name="MTL">MTL</string>
   <string name="Magisk">Magisk Manager</string>
   <string name="MagiskSummary">ตรวจสอบการตั้งค่า Magisk ปัจจุบันของคุณ</string>
