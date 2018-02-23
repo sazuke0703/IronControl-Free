@@ -164,7 +164,7 @@
   <string name="CustomText">ข้อความที่กำหนดเอง</string>
   <string name="DancingElsa">เอลซ่าเต้นรำ</string>
   <string name="DarkTheme">ธีมมืด</string>
-  <string name="DataToggle">ปุ่มข้อมูล</string>
+  <string name="DataToggle">ปุ่มข้อมูลมือถือ</string>
   <string name="DataToggleSummary">ปุ่มข้อมูลจะแสดง</string>
   <string name="DataUsage">การใช้ข้อมูล</string>
   <string name="DataUsageColor">สีข้อความการใช้ข้อมูล</string>
@@ -221,7 +221,7 @@
   <string name="Gradient">ไล่ระดับ</string>
   <string name="GradientOrientation">การวางแนวด้วยไล่ระดับสี</string>
   <string name="GradientPreferences">การกำหนดสีและการไล่ระดับสี</string>
-  <string name="HeadsUp">หัวขึ้นการแจ้งเตือน</string>
+  <string name="HeadsUp">การแจ้งเตือนขึ้นบนหัว</string>
   <string name="Hidden">ซ่อน</string>
   <string name="HotRebootToggle">ปุ่มรีบูตด่วน</string>
   <string name="HotRebootToggleSummary">ปุ่มรีบูตด่วนจะแสดง</string>
@@ -322,7 +322,7 @@
   <string name="MiscTorchSummary">เปิดไฟฉายโดยการกดปุ่มปรับระดับเสียงในขณะที่หน้าจอดับลง</string>
   <string name="MiscTorchTimeout">หมดเวลาไฟฉาย</string>
   <string name="MiscUBS">ปลุกเมื่อถอด/เสียบ ปลั๊ก USB</string>
-  <string name="MultiUser">รูปตัวแทน ของผู้ใช้หลายคน</string>
+  <string name="MultiUser">รูปโปรไฟล์ของผู้ใช้ร่วม</string>
   <string name="MultiUserToggle">ปุ่มผู้ใช้ร่วม</string>
   <string name="MultiUserToggleSummary">ปุ่มผู้ใช้ร่วมจะแสดง</string>
   <string name="NavBarColor">สีแถบนำทาง</string>
@@ -454,7 +454,7 @@
   <string name="RecentRamBar">แถบแรม</string>
   <string name="RecentRamBarFreeRam">สีข้อความแรมที่เหลือ</string>
   <string name="RecentRamBarTitle">A.O.K.P แถบแรม</string>
-  <string name="RecentRamBarUsedRam">ฮีข้อความใช้แรม</string>
+  <string name="RecentRamBarUsedRam"สีข้อความใช้แรม</string>
   <string name="RecentSummary">เปลี่ยนแก้ไขแผงล่าสุด</string>
   <string name="RecentTitle">แผงล่าสุด</string>
   <string name="RecoveryToggle">ปุ่มรีบูตโหมดกู้คืน</string>
@@ -595,9 +595,9 @@
   <string name="ThirtySeconds">30 วินาที</string>
   <string name="ThreeSeconds">2 วินาที</string>
   <string name="ToEnd">สิ้นสุด</string>
-  <string name="ToEndOfView">เมื่อสิ้นสุดการดู</string>
+  <string name="ToEndOfView">หลังตัวเลข</string>
   <string name="ToStart">เมือเริ่ม</string>
-  <string name="ToStartOfView">เมื่อเริ่มดู</string>
+  <string name="ToStartOfView">หน้าตัวเลข</string>
   <string name="TopToBottom">จากบนลงล่าง</string>
   <string name="Torchlight">ไฟฉาย</string>
   <string name="TouchwizPageEffect">เอฟเฟกต์หน้าหน้าจอหลัก</string>
